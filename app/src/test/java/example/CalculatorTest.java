@@ -2,7 +2,7 @@ package example;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-
+// Test Comment by Max Ham
 public class CalculatorTest {
     Calculator calculator;
     @Before
