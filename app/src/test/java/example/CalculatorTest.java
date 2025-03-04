@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 // Test Comment by Max Ham
 // Test Comment by Jack Hu
-// Test Comment by Shay Azari
+// Test Comment by Shay Azar
 public class CalculatorTest {
     Calculator calculator;
     @Before
